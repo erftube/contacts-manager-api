@@ -21,7 +21,7 @@ This is a **RESTful API** built with **Node.js, Express.js, and MongoDB** for ma
 1. **Clone the repository**
    ```sh
    git clone https://github.com/erftube/contacts-manager-api.git
-   cd contacts-backend-api
+   cd contacts-manager-api
    ```
 
 2. **Install dependencies**
